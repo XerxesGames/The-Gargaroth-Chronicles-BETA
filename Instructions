@@ -1,0 +1,24 @@
+1. You need to have Python installed on your computer
+
+2. Install
+
+  Windows: 
+    1-Download the .zip files
+    2-Go to Windows store and search "Python"
+    3-Click on "Install"
+    4-Search "Windows Terminal"
+    5-Click on install
+    6-Unzip the files on a new folder called "Gargaroth-Chronicles" in C:\Users\[your user]\Gargaroth-Chronicles
+    7-Open Windows Terminal
+    8-Go to the folder C:\Users\[your user]\Gargaroth-Chronicles
+      Windows Terminal:
+        cd : Move on folders (Use: C:\ cd Users)
+        dir : Show all the files on a folder (Use: C:\Users dir) 
+    9-Type "python the_gargaroth_chronicles_ing.py
+    
+    
+    GNU/Linux:
+      1-Open the terminal
+      2-Type git clone [URL]
+      3-Go to the directory
+      4-Type "python the_gargaroth_chronicles_ing.py
