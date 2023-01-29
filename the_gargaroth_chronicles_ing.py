@@ -1,6 +1,3 @@
-#IMPORTACION DE LIBRERIAS
-import subprocess
-
 #COMIENZO DEL JUEGO
 print("\n                                         THE GARGAROTH CHRONICLES           ")
 print("                                        --------------------------          ")
